@@ -20,16 +20,6 @@ Genre studies
 Digital humanities, distant reading, and rhetorics of space and place
 AI, writing pedagogy, and knowledge work
 Social justice–oriented, translingual pedagogy for multilingual and first-generation students
-Dissertation Research
-
-My dissertation examines how the consent and intake documents used by psychedelic retreats perform—or fail to perform—informed consent as a legal-rhetorical act, particularly for minority participants, across legally gray and offshore jurisdictions. The project treats these documents as a genre and draws on a mixed-methods survey of past retreat participants.
-
-Digital Projects
-Distant reading of Florida's landscape and space-place rhetorics (in progress): a computational study of a growing corpus of nineteenth- and twentieth-century writing about Florida, using concordance, topic modeling, and sentiment analysis.
-Conference Presentations
-"[ADD: title]." Workshop. 15th Biennial Thomas R. Watson Conference in Rhetoric and Composition, Louisville, KY, November 2026 (forthcoming).
-"[ADD: title]." Panel presentation. NCTE Annual Convention, Philadelphia, PA, November 2026 (forthcoming).
-Teaching
 
 My teaching draws on Universal Design for Learning, translingual pedagogy, and civic engagement, with a focus on social justice and on supporting multilingual and first-generation students.
 
@@ -46,9 +36,7 @@ Publications
 
 Poetry, essays, and creative nonfiction in Hayden's Ferry Review, Sonora Review, Berkeley Poetry Review, Hobart, Southeast Review, Puerto del Sol, and Oberon Magazine.
 
-<!-- For a full academic CV, list each piece on its own line: "Title." *Journal*, issue (year). -->
-Books and Manuscripts
-[ADD: any earlier published collection (title, publisher, year), or delete this line]
+<!-- For a full academic CV, list each 
 Lullaby into the Microphone, collection manuscript (M.F.A. thesis)
 The Revanchist, a braided lyric memoir of immigrant womanhood, modern dating, and revanchism, set in Miami (in progress)
 Editorial Experience
