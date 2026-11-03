@@ -25,38 +25,38 @@ Shalini holds an MFA in Creative Writing & Environment from Iowa State Universit
 ## Research
 
 ### Dissertation
-[Placeholder: one or two sentences on the dissertation — informed consent in psychedelic-retreat intake documents as a legal-rhetorical genre.] [Read more](#)
+[one or two sentences on the dissertation — informed consent in psychedelic-retreat intake documents as a legal-rhetorical genre.] [Read more](#)
 
 ### Digital Projects
-- **Distant reading of Florida's landscape** (in progress) — [Placeholder: short project description.] [Project page](#) · [Code on GitHub](#)
-- **[Placeholder: project title]** — [Placeholder: short description.] [Link](#)
+- **Distant reading of Florida's landscape** (in progress) — [short project description.] [Project page](#) · [Code on GitHub](#)
+- **[project title]** — [short description.] [Link](#)
 
 ### Presentations
-- "[Placeholder: talk title]." Workshop, Thomas R. Watson Conference, Louisville, KY, November 2026. [Slides](#)
-- "[Placeholder: talk title]." Panel, NCTE Annual Convention, Philadelphia, PA, November 2026. [Slides](#)
+- "[talk title]." Workshop, Thomas R. Watson Conference, Louisville, KY, November 2026. [Slides](#)
+- "[talk title]." Panel, NCTE Annual Convention, Philadelphia, PA, November 2026. [Slides](#)
 
 ## Teaching
-[Placeholder: a short teaching statement — Universal Design for Learning, translingual pedagogy, civic engagement.] [Teaching philosophy](#)
+[a short teaching statement — Universal Design for Learning, translingual pedagogy, civic engagement.] [Teaching philosophy](#)
 
 - **ENC 1101 / ENC 1102**, Florida International University — [Sample syllabus](#)
-- **[Placeholder: course name]** — [Sample syllabus](#)
-- **[Placeholder: assignment title, e.g. Visual AI Reflection]** — [Assignment sheet](#)
+- **[course name]** — [Sample syllabus](#)
+- **[assignment title, e.g. Visual AI Reflection]** — [Assignment sheet](#)
 
 ## Creative Writing
 
 ### Selected Publications
-- "[Placeholder: title]." *Hayden's Ferry Review*, [year]. [Read](#)
-- "[Placeholder: title]." *Sonora Review*, [year]. [Read](#)
-- "[Placeholder: title]." *Berkeley Poetry Review*, [year]. [Read](#)
-- "[Placeholder: title]." *Hobart*, [year]. [Read](#)
-- "[Placeholder: title]." *The Nation*, [year]. [Read](#)
+- "[title]." *Hayden's Ferry Review*, [year]. [Read](#)
+- "[title]." *Sonora Review*, [year]. [Read](#)
+- "[title]." *Berkeley Poetry Review*, [year]. [Read](#)
+- "[title]." *Hobart*, [year]. [Read](#)
+- "[title]." *The Nation*, [year]. [Read](#)
 
 ### Books
-- *Confessions of a Turophile* — [Placeholder: publisher, year]. [Buy / learn more](#)
-- *The Revanchist* (in progress) — [Placeholder: one-line description.]
+- *Confessions of a Turophile* — [publisher, year]. [Buy / learn more](#)
+- *The Revanchist* (in progress) — [one-line description.]
 
 ### Editorial
-- [Placeholder: role], *THE DIAGRAM* — [years]. [Visit](https://thediagram.com/)
+- [role], *THE DIAGRAM* — [years]. [Visit](https://thediagram.com/)
 
 ## Contact
 
@@ -64,5 +64,5 @@ Shalini holds an MFA in Creative Writing & Environment from Iowa State Universit
 - Office: CHDR, TCH, UCF
 - CV: [Download PDF]({{ '/Shalini_Singh_CV_final%20(2).pdf' | relative_url }})
 - GitHub: [github.com/shalini301993](https://github.com/shalini301993)
-- LinkedIn: [Placeholder: add profile link](#)
-- Google Scholar / ORCID: [Placeholder: add profile link](#)
+- LinkedIn: [Add profile link](#)
+- Google Scholar / ORCID: [Add profile link](#)
