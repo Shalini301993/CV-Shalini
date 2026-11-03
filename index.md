@@ -25,38 +25,33 @@ Shalini holds an MFA in Creative Writing & Environment from Iowa State Universit
 ## Research
 
 ### Dissertation
-[one or two sentences on the dissertation — informed consent in psychedelic-retreat intake documents as a legal-rhetorical genre.]
+My dissertation examines how the consent and intake documents used by psychedelic retreats perform—or fail to perform—informed consent as a legal-rhetorical act, particularly for minority participants, across legally gray and offshore jurisdictions. The project treats these documents as a genre and draws on a mixed-methods survey of past retreat participants.
 
 ### Digital Projects
-- **Distant reading of Florida's landscape** (in progress) — [short project description.]
-- **[project title]** — [short description.]
+- **Distant reading of Florida's landscape and space-place rhetorics** (in progress) — a computational study of a growing corpus of nineteenth- and twentieth-century writing about Florida, using concordance, topic modeling, and sentiment analysis.
 
 ### Presentations
-- "[talk title]." Workshop, Thomas R. Watson Conference, Louisville, KY, November 2026.
-- "[talk title]." Panel, NCTE Annual Convention, Philadelphia, PA, November 2026.
+- Workshop. 15th Biennial Thomas R. Watson Conference in Rhetoric and Composition, Louisville, KY, November 2026 (forthcoming).
+- Panel presentation. NCTE Annual Convention, Philadelphia, PA, November 2026 (forthcoming).
 
 ## Teaching
-[a short teaching statement — Universal Design for Learning, translingual pedagogy, civic engagement.]
+My teaching draws on Universal Design for Learning, translingual pedagogy, and civic engagement, with a focus on social justice and on supporting multilingual and first-generation students.
 
-- **ENC 1101 / ENC 1102**, Florida International University
-- **[course name]**
-- **[assignment title, e.g. Visual AI Reflection]**
+- First-year writing and composition, including ENC 1101 and ENC 1102 at Florida International University
+- Professional and technical communication and legal writing
+- Creative writing
 
 ## Creative Writing
 
-### Selected Publications
-- "[title]." *Hayden's Ferry Review*, [year].
-- "[title]." *Sonora Review*, [year].
-- "[title]." *Berkeley Poetry Review*, [year].
-- "[title]." *Hobart*, [year].
-- "[title]." *The Nation*, [year].
+### Publications
+Poetry, essays, and creative nonfiction in *The Nation*, *Outlook India*, *Hayden's Ferry Review*, *Sonora Review*, *Berkeley Poetry Review*, *Hobart*, *Southeast Review*, and *Puerto del Sol*.
 
 ### Books
-- *Confessions of a Turophile* — [publisher, year].
-- *The Revanchist* (in progress) — [one-line description.]
+- *Confessions of a Turophile*
+- *The Revanchist*, a braided lyric memoir of immigrant womanhood, modern dating, and revanchism, set in Miami (in progress)
 
 ### Editorial
-- [role], *THE DIAGRAM* — [years]. [Visit](https://thediagram.com/)
+- Assistant Poetry Editor, *THE DIAGRAM* — 2024–26. [Visit](https://thediagram.com/)
 
 ## Contact
 
