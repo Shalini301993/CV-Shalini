@@ -25,34 +25,34 @@ Shalini holds an MFA in Creative Writing & Environment from Iowa State Universit
 ## Research
 
 ### Dissertation
-[one or two sentences on the dissertation — informed consent in psychedelic-retreat intake documents as a legal-rhetorical genre.] [Read more](#)
+[one or two sentences on the dissertation — informed consent in psychedelic-retreat intake documents as a legal-rhetorical genre.]
 
 ### Digital Projects
-- **Distant reading of Florida's landscape** (in progress) — [short project description.] [Project page](#) · [Code on GitHub](#)
-- **[project title]** — [short description.] [Link](#)
+- **Distant reading of Florida's landscape** (in progress) — [short project description.]
+- **[project title]** — [short description.]
 
 ### Presentations
-- "[talk title]." Workshop, Thomas R. Watson Conference, Louisville, KY, November 2026. [Slides](#)
-- "[talk title]." Panel, NCTE Annual Convention, Philadelphia, PA, November 2026. [Slides](#)
+- "[talk title]." Workshop, Thomas R. Watson Conference, Louisville, KY, November 2026.
+- "[talk title]." Panel, NCTE Annual Convention, Philadelphia, PA, November 2026.
 
 ## Teaching
-[a short teaching statement — Universal Design for Learning, translingual pedagogy, civic engagement.] [Teaching philosophy](#)
+[a short teaching statement — Universal Design for Learning, translingual pedagogy, civic engagement.]
 
-- **ENC 1101 / ENC 1102**, Florida International University — [Sample syllabus](#)
-- **[course name]** — [Sample syllabus](#)
-- **[assignment title, e.g. Visual AI Reflection]** — [Assignment sheet](#)
+- **ENC 1101 / ENC 1102**, Florida International University
+- **[course name]**
+- **[assignment title, e.g. Visual AI Reflection]**
 
 ## Creative Writing
 
 ### Selected Publications
-- "[title]." *Hayden's Ferry Review*, [year]. [Read](#)
-- "[title]." *Sonora Review*, [year]. [Read](#)
-- "[title]." *Berkeley Poetry Review*, [year]. [Read](#)
-- "[title]." *Hobart*, [year]. [Read](#)
-- "[title]." *The Nation*, [year]. [Read](#)
+- "[title]." *Hayden's Ferry Review*, [year].
+- "[title]." *Sonora Review*, [year].
+- "[title]." *Berkeley Poetry Review*, [year].
+- "[title]." *Hobart*, [year].
+- "[title]." *The Nation*, [year].
 
 ### Books
-- *Confessions of a Turophile* — [publisher, year]. [Buy / learn more](#)
+- *Confessions of a Turophile* — [publisher, year].
 - *The Revanchist* (in progress) — [one-line description.]
 
 ### Editorial
@@ -64,5 +64,3 @@ Shalini holds an MFA in Creative Writing & Environment from Iowa State Universit
 - Office: CHDR, TCH, UCF
 - CV: [Download PDF]({{ '/Shalini_Singh_CV_final%20(2).pdf' | relative_url }})
 - GitHub: [github.com/shalini301993](https://github.com/shalini301993)
-- LinkedIn: [Add profile link](#)
-- Google Scholar / ORCID: [Add profile link](#)
